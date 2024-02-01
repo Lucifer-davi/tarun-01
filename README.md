@@ -1,5 +1,5 @@
 <html> 
-  <head> only few list items <br>
+  <head> only few list items <br> 
   <title>Favourite Names</title></head>
   <body>
     <img src="C:\Users\LAB1\Pictures\Screenshots\Screenshot.png">
